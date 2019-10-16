@@ -2,6 +2,5 @@
 
 int main()
 {
-12313123123
-
+	hyx befor
 }
